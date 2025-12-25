@@ -39,7 +39,7 @@ title: Research
 ### The Radio Frequency Reinforcement Learning Gym
 **Technologies**: Pytorch, Mushroom RL, OpenAI Gym
 
-Codebase developed as part of a research project. Paper is in peer-review, once published, this codebase will be open-sourced.
+Codebase developed as part of a research project. Paper is in peer-review, once published, this codebase will be open sourced.
 
 - Custom OpenAI Gym environment for wireless communications
 - Reinforcement Learning applications for radio frequency problems
