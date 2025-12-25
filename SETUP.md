@@ -137,7 +137,6 @@ Edit `assets/css/style.css` to customize:
 
 - **Markdown**: All content pages use Markdown for easy formatting
 - **Raw HTML**: You can mix HTML directly in Markdown files for embeds
-- **Jekyll Liquid**: Use `{{ }}` and `{% %}` for dynamic content
 - **Front Matter**: Every page needs YAML front matter with `layout` and `title`
 
 ## Troubleshooting

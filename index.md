@@ -1,40 +1,27 @@
----
+<!-- ---
 layout: default
-title: Welcome
+title: Home
 ---
 
-# Welcome to My Personal Website
+# Danny Rosen
+![Headshot](images/headshot.png)
 
-Hello! This is my personal website built with Jekyll and Markdown.
+Graduate student in Computer Engineering at Virginia Tech and Software Engineer in Financial Technology.  
+Conducting research in Neuromorphic Computing for Whole Brain Emulation applications.
+Passionate about Neurology, Psychology, and Open-Source research. -->
+<!-- <!DOCTYPE html> -->
 
-## What You'll Find Here
+<img src="images/headshot.png" alt="Headshot" width="200">
 
-* **About Me**: Learn more about my background and interests
-* **Projects**: Check out my recent work and contributions
-* **Contact**: Get in touch with me
-
----
-
-## Recent Updates
-
-This site uses a retro early-2000s aesthetic with:
-- Simple HTML structure
-- Minimal CSS styling
-- Monospaced fonts (Courier New)
-- Classic hyperlink colors (blue/purple)
-
-Feel free to explore and check out my work!
+<p>
+Graduate student in Computer Engineering at Virginia Tech and Software Engineer in Financial Technology.<br>
+Conducting research in Neuromorphic Computing for Whole Brain Emulation applications.<br>
+Passionate about Neurology, Psychology, and Open-Source research. <br>
+Avid guitar player, Philadelphia sports enjoyer, and whiskey consumer.
+</p>
 
 ---
-
-## External Links
-
-You can also find me on:
-
-* [GitHub](https://github.com/DRosen766)
-* [LinkedIn](https://linkedin.com)
-* [Google Scholar](https://scholar.google.com)
-
----
-
-<small>Built with Jekyll and hosted on GitHub Pages</small>
+<p>
+"Everything Should Be Made as Simple as Possible, But Not Simpler" 
+-Albert Einstein (supposedly)
+</p> 
