@@ -1,81 +1,80 @@
 ---
 layout: default
-title: Projects
+title: Research
 ---
 
-# Projects
+# Research
 
-Here are some of my projects and contributions.
+## Current Research
 
-## GitHub Repositories
+### Graduate Researcher - Virginia Tech Department of Electrical Engineering
+*Spring 2024 - Present*
+
+- Training and evaluating Neuromorphic Machine Learning models for wireless communications applications
+- Utilizing High Performance Computing techniques to categorize radio wave modulation methods
+- Exploring applications of Neuromorphic Computing for Whole Brain Emulation
+
+---
+
+## Past Research Experience
+
+### Team Lead, Software Research Assistant - Hume Center for National Security
+*Spring 2022 - Spring 2024*
+
+- Managed a multidisciplinary team of undergraduate students to develop a custom OpenAI Gym environment
+- Performed extensive training and performance assessment of Reinforcement Learning for Wireless Communication applications
+- Optimized python package and user interface for widespread usage in the Wireless Communications community
+
+### Instructor, Research Assistant - CS Quantum Group @ VT
+*Summer 2021*
+
+- Created educational materials and hosted training boot-camps for high school students in the field of Quantum Information Science and Engineering
+- Contributed to the development of coursework for [Hello Quantum World](https://arxiv.org/abs/2210.02868)
+- Planned, promoted and participated in training sessions for high school students
+
+---
+
+## Research Projects
+
+### The Radio Frequency Reinforcement Learning Gym
+**Technologies**: Pytorch, Mushroom RL, OpenAI Gym
+
+Codebase developed as part of a research project. Paper is in peer-review, once published, this codebase will be open-sourced.
+
+- Custom OpenAI Gym environment for wireless communications
+- Reinforcement Learning applications for radio frequency problems
+- Performance optimization for widespread community usage
+
+### Job Control Shell
+**Technologies**: C, Posix
+
+Implemented a linux application for process management including functionality for:
+- Spawning processes
+- Killing processes
+- Interprocess communication
+
+### Custom Web Server
+**Technologies**: Socket Programming, JSONWebToken Authentication, React, C
+
+Implemented a web server including functionality for:
+- Serving files
+- User authentication
+- Multi-Client Support
+
+---
+
+## Research Interests
+
+- Neuromorphic Computing
+- Wireless Communications
+- Machine Learning and Reinforcement Learning
+- Quantum Information Science and Engineering
+- High Performance Computing
+
+---
+
+## GitHub Profile
 
 <div class="embed-container">
-<!-- GitHub Profile Summary -->
 <p>Check out my GitHub profile: <a href="https://github.com/DRosen766" target="_blank">@DRosen766</a></p>
-
-<!-- GitHub Repository Cards -->
-<!-- You can embed individual repositories using GitHub's embed widgets -->
-<!-- Example: -->
-<!--
-<iframe src="https://ghbtns.com/github-btn.html?user=DRosen766&repo=REPO_NAME&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
--->
 </div>
-
----
-
-## Featured Projects
-
-### Project 1
-
-**Description**: Brief description of your project.
-
-**Technologies**: List the technologies used.
-
-**Links**: 
-* [GitHub Repository](https://github.com/DRosen766/project1)
-* [Live Demo](#)
-
----
-
-### Project 2
-
-**Description**: Brief description of your project.
-
-**Technologies**: List the technologies used.
-
-**Links**: 
-* [GitHub Repository](https://github.com/DRosen766/project2)
-* [Live Demo](#)
-
----
-
-### Project 3
-
-**Description**: Brief description of your project.
-
-**Technologies**: List the technologies used.
-
-**Links**: 
-* [GitHub Repository](https://github.com/DRosen766/project3)
-* [Live Demo](#)
-
----
-
-## GitHub Activity Widget
-
-<div class="embed-container">
-<!-- GitHub Activity -->
-<!-- You can add a GitHub activity chart using various third-party services -->
-<!-- Example using GitHub's contribution chart: -->
-<p><img src="https://ghchart.rshah.org/DRosen766" alt="GitHub Contributions" /></p>
-</div>
-
----
-
-## Open Source Contributions
-
-List your contributions to open source projects here.
-
-* **Project Name**: Brief description of your contribution
-* **Project Name**: Brief description of your contribution
-* **Project Name**: Brief description of your contribution
