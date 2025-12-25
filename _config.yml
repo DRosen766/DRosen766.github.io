@@ -1,0 +1,17 @@
+# Site settings
+title: Danny Rosen
+description: Personal website
+url: "https://drosen766.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor/
+  - .bundle/
