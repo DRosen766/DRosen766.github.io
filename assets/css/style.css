@@ -4,7 +4,7 @@ body {
     background-color: #ffffff;
     color: #000000;
     margin: 20px;
-    line-height: 1.6;
+    line-height: 1.8;
     font-size: 14px;
 }
 
@@ -82,6 +82,25 @@ pre code {
 /* Lists */
 ul, ol {
     margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+/* Improve readability of list items with better spacing */
+li {
+    margin-bottom: 10px;
+    line-height: 1.8;
+}
+
+/* Add spacing for nested lists */
+li ul, li ol {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+/* Reduce spacing for tightly grouped items in navigation */
+nav ul li {
+    margin-bottom: 0;
+    line-height: 1.6;
 }
 
 /* Blockquotes */
