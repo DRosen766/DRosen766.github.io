@@ -88,7 +88,6 @@ ul, ol {
 /* Improve readability of list items with better spacing */
 li {
     margin-bottom: 10px;
-    line-height: 1.8;
 }
 
 /* Add spacing for nested lists */
