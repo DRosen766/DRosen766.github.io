@@ -5,36 +5,36 @@ title: Research
 
 # Research
 
-## Current Research
+## Interests
 
-### Graduate Researcher - Virginia Tech Department of Electrical Engineering
-*Spring 2024 - Present*
+- Neuromorphic Computing
+- Whole Brain Emulation
+- Machine Learning
 
-- Training and evaluating Neuromorphic Machine Learning models for wireless communications applications
-- Utilizing High Performance Computing techniques to categorize radio wave modulation methods
-- Exploring applications of Neuromorphic Computing for Whole Brain Emulation
 
----
+## Experience
 
-## Past Research Experience
+### Graduate Research Assistant
+**Virginia Tech Institute for Advanced Comuting** | *Spring 2024 - Present*
 
-### Team Lead, Software Research Assistant - Hume Center for National Security
-*Spring 2022 - Spring 2024*
+- Trained and evaluated Neuromorphic Machine Learning models for wireless communications applications
+- Utilized High Performance Computing techniques to categorize radio wave modulation methods
+
+### Team Lead, Undergraduate Research Assistant
+**Hume Center for National Security** | *Spring 2022 - Spring 2024*
 
 - Managed a multidisciplinary team of undergraduate students to develop a custom OpenAI Gym environment
 - Performed extensive training and performance assessment of Reinforcement Learning for Wireless Communication applications
 - Optimized python package and user interface for widespread usage in the Wireless Communications community
 
-### Instructor, Research Assistant - CS Quantum Group @ VT
-*Summer 2021*
+## Publications
+*[Google Scholar](https://scholar.google.com/citations?user=1jEpqIUAAAAJ&hl=en)*
 
-- Created educational materials and hosted training boot-camps for high school students in the field of Quantum Information Science and Engineering
-- Contributed to the development of coursework for [Hello Quantum World](https://arxiv.org/abs/2210.02868)
-- Planned, promoted and participated in training sessions for high school students
+D. Rosen et al., "**RFRL Gym: A Reinforcement Learning Testbed for Cognitive Radio Applications**," 2023 International Conference on Machine Learning and Applications (ICMLA), Jacksonville, FL, USA, 2023, pp. 279-286, doi: 10.1109/ICMLA58977.2023.00046.
 
----
+S. Vangaru, D. Rosen et al., "**A Multi-Agent Reinforcement Learning Testbed for Cognitive Radio Applications**," 2025 IEEE 22nd Consumer Communications & Networking Conference (CCNC), Las Vegas, NV, USA, 2025, pp. 1-9, doi: 10.1109/CCNC54725.2025.10976191.
 
-## Research Projects
+## Projects
 
 ### The Radio Frequency Reinforcement Learning Gym
 **Technologies**: Pytorch, Mushroom RL, OpenAI Gym
@@ -44,37 +44,3 @@ Codebase developed as part of a research project. Paper is in peer-review, once 
 - Custom OpenAI Gym environment for wireless communications
 - Reinforcement Learning applications for radio frequency problems
 - Performance optimization for widespread community usage
-
-### Job Control Shell
-**Technologies**: C, Posix
-
-Implemented a linux application for process management including functionality for:
-- Spawning processes
-- Killing processes
-- Interprocess communication
-
-### Custom Web Server
-**Technologies**: Socket Programming, JSONWebToken Authentication, React, C
-
-Implemented a web server including functionality for:
-- Serving files
-- User authentication
-- Multi-Client Support
-
----
-
-## Research Interests
-
-- Neuromorphic Computing
-- Wireless Communications
-- Machine Learning and Reinforcement Learning
-- Quantum Information Science and Engineering
-- High Performance Computing
-
----
-
-## GitHub Profile
-
-<div class="embed-container">
-<p>Check out my GitHub profile: <a href="https://github.com/DRosen766" target="_blank">@DRosen766</a></p>
-</div>

@@ -7,34 +7,24 @@ title: Experience
 
 ## Education
 
-**Bachelor of Science in Computer Science** – Virginia Tech, Honors College  
-*May 2024*
+### **Master of Science in Computer Engineering** Virginia Tech
+*Fall 2024 — Present*
+- Member of [BRICCS Lab](https://bricc.ece.vt.edu/)
+- Supervised by [Dr. Cindy Yi](https://www.yangyi.ece.vt.edu/)
+- Thesis subject: Neuromorphic Computing for Whole Brain Emulation
+
+### **Bachelor of Science in Computer Science** – Virginia Tech, Honors College  
+*Graduated May 2024*
 - Minor in Quantum Information Science
 - Cumulative GPA: 3.5
 
 ---
 
 ## Professional Experience
-
-### Graduate Researcher
-**Virginia Tech Department of Electrical Engineering** | *Spring 2024 - Present*
-
-- Trained and evaluated Neuromorphic Machine Learning models for wireless communications applications
-- Utilized High Performance Computing techniques to categorize radio wave modulation methods
-
-### Team Lead, Software Research Assistant
-**Hume Center for National Security** | *Spring 2022 - Spring 2024*
-
-- Managed a multidisciplinary team of undergraduate students to develop a custom OpenAI Gym environment
-- Performed extensive training and performance assessment of Reinforcement Learning for Wireless Communication applications
-- Optimized python package and user interface for widespread usage in the Wireless Communications community
-
-### Software Engineering Intern
-**Lockheed Martin** | *Summer 2022*
-
-- Developed test-driven software in an Agile team working on Display Applications for the F-16 Fighting Falcon
-- Used a set of requirements produced by clients and system designers to motivate implementation
-- Used software development tools such as Jira and Bitbucket to collaborate with teammates
+### Software Engineer
+**Capital One** | *Fall 2024 — Present*
+- Architected cloud-native solutions for real-time data processing
+- Leveraged cutting-edge Approximate Nearest Neighbor techniques for entity resolution
 
 ### Software Engineering Intern
 **Capital One** | *Summer 2023*
@@ -43,6 +33,14 @@ title: Experience
 - Collaborated closely with end users of product to enhance user experience
 - Used AWS and Docker to deploy containerized applications
 - Rest API Development, Cloud Deployment, Unit Testing, Spring Boot, Containerization, Postman, SQL
+
+### Software Engineering Intern
+**Lockheed Martin** | *Summer 2022*
+
+- Developed test-driven software in an Agile team working on Display Applications for the F-16 Fighting Falcon
+- Used a set of requirements produced by clients and system designers to motivate implementation
+- Used software development tools such as Jira and Bitbucket to collaborate with teammates
+
 
 ### Instructor, Research Assistant
 **CS Quantum Group @ VT** | *Summer 2021*
@@ -66,9 +64,3 @@ title: Experience
 
 - **Secret Clearance**, US Department of State | *Issued May 2022*
 - **JavaScript Algorithms and Data Structures Developer Certification** (300 hours), FreeCodeCamp | *Issued May 2020*
-
----
-
-## Relevant Coursework
-
-Software Design & Data Structures (Algorithm Development, JUnit Debugging), Computer Organization, Computer Systems, Comparative Languages, Quantum Software, Quantum Computation, Linear Algebra, Statistics for Engineers
