@@ -1,81 +1,46 @@
 ---
 layout: default
-title: Projects
+title: Research
 ---
 
-# Projects
+# Research
 
-Here are some of my projects and contributions.
+## Interests
 
-## GitHub Repositories
+- Neuromorphic Computing
+- Whole Brain Emulation
+- Machine Learning
 
-<div class="embed-container">
-<!-- GitHub Profile Summary -->
-<p>Check out my GitHub profile: <a href="https://github.com/DRosen766" target="_blank">@DRosen766</a></p>
 
-<!-- GitHub Repository Cards -->
-<!-- You can embed individual repositories using GitHub's embed widgets -->
-<!-- Example: -->
-<!--
-<iframe src="https://ghbtns.com/github-btn.html?user=DRosen766&repo=REPO_NAME&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
--->
-</div>
+## Experience
 
----
+### Graduate Research Assistant
+**Virginia Tech Institute for Advanced Comuting** | *Spring 2024 - Present*
 
-## Featured Projects
+- Trained and evaluated Neuromorphic Machine Learning models for wireless communications applications
+- Utilized High Performance Computing techniques to categorize radio wave modulation methods
 
-### Project 1
+### Team Lead, Undergraduate Research Assistant
+**Hume Center for National Security** | *Spring 2022 - Spring 2024*
 
-**Description**: Brief description of your project.
+- Managed a multidisciplinary team of undergraduate students to develop a custom OpenAI Gym environment
+- Performed extensive training and performance assessment of Reinforcement Learning for Wireless Communication applications
+- Optimized python package and user interface for widespread usage in the Wireless Communications community
 
-**Technologies**: List the technologies used.
+## Publications
+*[Google Scholar](https://scholar.google.com/citations?user=1jEpqIUAAAAJ&hl=en)*
 
-**Links**: 
-* [GitHub Repository](https://github.com/DRosen766/project1)
-* [Live Demo](#)
+D. Rosen et al., "**RFRL Gym: A Reinforcement Learning Testbed for Cognitive Radio Applications**," 2023 International Conference on Machine Learning and Applications (ICMLA), Jacksonville, FL, USA, 2023, pp. 279-286, doi: 10.1109/ICMLA58977.2023.00046.
 
----
+S. Vangaru, D. Rosen et al., "**A Multi-Agent Reinforcement Learning Testbed for Cognitive Radio Applications**," 2025 IEEE 22nd Consumer Communications & Networking Conference (CCNC), Las Vegas, NV, USA, 2025, pp. 1-9, doi: 10.1109/CCNC54725.2025.10976191.
 
-### Project 2
+## Projects
 
-**Description**: Brief description of your project.
+### The Radio Frequency Reinforcement Learning Gym
+**Technologies**: Pytorch, Mushroom RL, OpenAI Gym
 
-**Technologies**: List the technologies used.
+Codebase developed as part of a research project. Paper is in peer-review, once published, this codebase will be open sourced.
 
-**Links**: 
-* [GitHub Repository](https://github.com/DRosen766/project2)
-* [Live Demo](#)
-
----
-
-### Project 3
-
-**Description**: Brief description of your project.
-
-**Technologies**: List the technologies used.
-
-**Links**: 
-* [GitHub Repository](https://github.com/DRosen766/project3)
-* [Live Demo](#)
-
----
-
-## GitHub Activity Widget
-
-<div class="embed-container">
-<!-- GitHub Activity -->
-<!-- You can add a GitHub activity chart using various third-party services -->
-<!-- Example using GitHub's contribution chart: -->
-<p><img src="https://ghchart.rshah.org/DRosen766" alt="GitHub Contributions" /></p>
-</div>
-
----
-
-## Open Source Contributions
-
-List your contributions to open source projects here.
-
-* **Project Name**: Brief description of your contribution
-* **Project Name**: Brief description of your contribution
-* **Project Name**: Brief description of your contribution
+- Custom OpenAI Gym environment for wireless communications
+- Reinforcement Learning applications for radio frequency problems
+- Performance optimization for widespread community usage
