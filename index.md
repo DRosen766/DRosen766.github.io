@@ -13,13 +13,7 @@ Passionate about Neurology, Psychology, and Open-Source research. -->
 # Danny Rosen
 <img src="images/headshot.png" alt="Headshot" width="200">
 
-- Graduate student in Computer Engineering at Virginia Tech and Software Engineer at Capital One Financial.
-- Conducting research in Neuromorphic Computing for Whole Brain Emulation applications.
-- Passionate about Brain-Inspired Computing, Neuroscience, and Open-Source research.
-- Avid guitar player, Philadelphia sports enjoyer, and whiskey consumer.
-
----
-<p>
-"Everything Should Be Made as Simple as Possible, But Not Simpler" 
--Albert Einstein (supposedly)
-</p> 
+- Graduate student in Computer Engineering at Virginia Tech and Senior Associate Software Engineer at Capital One Financial
+- Conducting research in Neuromorphic Computing for Whole Brain Emulation applications
+- Passionate about Brain-Inspired Computing, Neuroscience, and Open-Source research
+- Avid guitar player and Philadelphia sports enjoyer

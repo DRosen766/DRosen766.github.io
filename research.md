@@ -36,11 +36,18 @@ S. Vangaru, D. Rosen et al., "**A Multi-Agent Reinforcement Learning Testbed for
 
 ## Projects
 
-### The Radio Frequency Reinforcement Learning Gym
+### [The Radio Frequency Reinforcement Learning Gym](https://github.com/vtnsi/rfrl-gym)
 **Technologies**: Pytorch, Mushroom RL, OpenAI Gym
 
-Codebase developed as part of a research project. Paper is in peer-review, once published, this codebase will be open sourced.
-
-- Custom OpenAI Gym environment for wireless communications
+- Open-source Custom OpenAI Gym environment for wireless communications
 - Reinforcement Learning applications for radio frequency problems
 - Performance optimization for widespread community usage
+
+### [RadioNode](https://github.com/DRosen766/RadioNode)
+**Technologies**: Python, Flask, PyTorch, AWS IoT, AWS S3, Docker
+
+- End-to-end pipeline for **remote radio signal collection, storage, and learning**
+- Streams raw **IQ data and signal metadata** from distributed radio clients to a centralized server using AWS IoT (MQTT)
+- **PyTorch-based convolutional neural network** and training scripts for modulation classification on collected IQ data
+- Supports containerized deployment of radio clients, data ingestion servers, and model training/inference workflows
+
