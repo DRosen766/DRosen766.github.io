@@ -14,6 +14,6 @@ Passionate about Neurology, Psychology, and Open-Source research. -->
 <img src="images/headshot.png" alt="Headshot" width="200">
 
 - Graduate student in Computer Engineering at Virginia Tech and Senior Associate Software Engineer at Capital One Financial
-- Conducting research in Neuromorphic Computing for Whole Brain Emulation applications
+- Researching compute-in-memory hardware for biorealistic neural simulation — RRAM-based architectures, kinetic neural modeling, and hardware-software co-design for Whole Brain Emulation
 - Passionate about Brain-Inspired Computing, Neuroscience, and Open-Source research
 - Avid guitar player and Philadelphia sports enjoyer

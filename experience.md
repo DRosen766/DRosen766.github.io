@@ -7,11 +7,11 @@ title: Experience
 
 ## Education
 
-### **Master of Science in Computer Engineering** Virginia Tech
-*Fall 2024 — Present*
-- Member of [BRICCS Lab](https://bricc.ece.vt.edu/)
+### **Master of Science in Computer Engineering** – Virginia Tech
+*Aug 2024 — May 2027 (expected)*
+- Member of [BRICCS Lab](https://bricc.ece.vt.edu/), Alexandria, VA
 - Supervised by [Dr. Cindy Yi](https://www.yangyi.ece.vt.edu/)
-- Thesis subject: Neuromorphic Computing for Whole Brain Emulation
+- Thesis: evaluating brain-inspired architectures for neuromorphic hardware as a substrate for whole-brain emulation relative to CPU/GPU alternatives, through connectome-scale deployment and energy benchmarking
 
 ### **Bachelor of Science in Computer Science** – Virginia Tech, Honors College  
 *Graduated May 2024*
@@ -21,10 +21,13 @@ title: Experience
 ---
 
 ## Professional Experience
+
 ### Software Engineer
-**Capital One** | *Fall 2024 — Present*
-- Architected cloud-native solutions for real-time data processing
-- Leveraged cutting-edge Approximate Nearest Neighbor techniques for entity resolution
+**Capital One**, McLean, VA | *Summer 2024 — Present*
+- Architected and implemented large-scale systems for entity resolution leveraging vector database solutions
+- Fine-tuning open-source, locally hosted LLMs for synthetic training data production
+- Shipping KPI improvements to customers on a monthly release cadence
+- Promoted after 18 months
 
 ### Software Engineering Intern
 **Capital One** | *Summer 2023*
@@ -52,11 +55,15 @@ title: Experience
 
 ## Skills
 
-**Programming Languages**: Python, C, Java, Javascript, Kotlin, C++, Shell Scripting, Swift
+**Hardware Design**: Cadence Virtuoso, Spectre, Verilog/Verilog-A, SPICE, OpenLane, TinyTapeout
 
-**Machine Learning**: Pytorch, Mushroom RL, Stable Baselines, OpenAI Gym
+**Neuromorphic**: Intel Loihi 2, Lava, NeuroML, SNN, NIR
 
-**Quantum Computation**: Qiskit, Penny Lane
+**Machine Learning**: PyTorch, CUDA, Ray, Kubeflow, Ollama
+
+**Systems / Software**: Python, C, C++, Java, Kotlin, Docker, Git, AWS, Angular, Spring Boot, SQL, Shell Scripting
+
+**Quantum Computation**: Qiskit, PennyLane
 
 ---
 

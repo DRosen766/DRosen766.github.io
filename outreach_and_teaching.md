@@ -1,7 +1,7 @@
 # Outreach and Teaching
 
 ### Executive Committee member of [Open Neuromorphic](https://open-neuromorphic.org/) Community
-*Spring 2025-Winter 2025*
+*Apr 2025 — Feb 2026*
 - Served as Secretary on the innagural executive committee of the Open Neuromorphic research community
 - [Profile on ONM site detailing contributions](https://open-neuromorphic.org/contributors/danny-rosen/)
 - Introduced and led community initiatives such as [Open Neuromorphic Research](https://open-neuromorphic.org/neuromorphic-computing/research/).  Hosted content such as weekly [Community Town Halls](https://open-neuromorphic.org/getting-involved/town-hall/) and [Workshops](https://open-neuromorphic.org/workshops/tsp1-neural-network-accelerator-chip-chris-eliasmith/)
