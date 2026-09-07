@@ -14,4 +14,4 @@ Feel free to reach out through any of the following channels:
 ## Social Media
 
 * **GitHub**: [@DRosen766](https://github.com/DRosen766)
-* **LinkedIn**: [LinkedIn Profile](linkedin.com/in/danny-rosen-67ba51162)
+* **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/danny-rosen-67ba51162)
